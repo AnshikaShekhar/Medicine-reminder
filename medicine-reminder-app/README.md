@@ -18,11 +18,5 @@ A React Native application that helps users manage and track their daily medicat
 - **AsyncStorage** (for local data persistence)
 - **Push Notifications API** (via Expo)
 
-## 📱 Screenshots
-
-> *(Add screenshots here using GitHub markdown or links to images)*  
-> Example:
-> ![Home Screen](assets/screenshots/home.png)
-> ![Reminder Screen](assets/screenshots/reminder.png)
 
 
